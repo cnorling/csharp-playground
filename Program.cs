@@ -11,6 +11,7 @@ namespace Automobiles
     public string Make { get; set; }
     public string Model { get; set; }
     public int Year { get; set; }
+    public specs
 
     // constructors
     public Car(string make, string model, int year)
@@ -25,5 +26,14 @@ namespace Automobiles
     {
       Console.WriteLine($"{this.Year} {this.Make} {this.Model}");
     }
+  }
+
+  public class Specs
+  {
+    // specs you would normally see in a car
+    public string Engine { get; set; }
+    public string Transmission { get; set; }
+    public string Horsepower { get; set; }
+    public string Topspeed { get; set; }
   }
 }
