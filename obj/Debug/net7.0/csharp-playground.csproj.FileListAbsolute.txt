@@ -1,0 +1,15 @@
+/home/cnorling/git/csharp-playground/bin/Debug/net7.0/csharp-playground
+/home/cnorling/git/csharp-playground/bin/Debug/net7.0/csharp-playground.deps.json
+/home/cnorling/git/csharp-playground/bin/Debug/net7.0/csharp-playground.runtimeconfig.json
+/home/cnorling/git/csharp-playground/bin/Debug/net7.0/csharp-playground.dll
+/home/cnorling/git/csharp-playground/bin/Debug/net7.0/csharp-playground.pdb
+/home/cnorling/git/csharp-playground/obj/Debug/net7.0/csharp-playground.csproj.AssemblyReference.cache
+/home/cnorling/git/csharp-playground/obj/Debug/net7.0/csharp-playground.GeneratedMSBuildEditorConfig.editorconfig
+/home/cnorling/git/csharp-playground/obj/Debug/net7.0/csharp-playground.AssemblyInfoInputs.cache
+/home/cnorling/git/csharp-playground/obj/Debug/net7.0/csharp-playground.AssemblyInfo.cs
+/home/cnorling/git/csharp-playground/obj/Debug/net7.0/csharp-playground.csproj.CoreCompileInputs.cache
+/home/cnorling/git/csharp-playground/obj/Debug/net7.0/csharp-playground.dll
+/home/cnorling/git/csharp-playground/obj/Debug/net7.0/refint/csharp-playground.dll
+/home/cnorling/git/csharp-playground/obj/Debug/net7.0/csharp-playground.pdb
+/home/cnorling/git/csharp-playground/obj/Debug/net7.0/csharp-playground.genruntimeconfig.cache
+/home/cnorling/git/csharp-playground/obj/Debug/net7.0/ref/csharp-playground.dll
