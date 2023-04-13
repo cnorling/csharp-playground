@@ -23,9 +23,7 @@ namespace Automobiles
     // methods
     public void PrintInfo()
     {
-      Console.WriteLine(this.Make);
-      Console.WriteLine(this.Model);
-      Console.WriteLine(this.Year);
+      Console.WriteLine($"{this.Year} {this.Make} {this.Model}");
     }
   }
 }
