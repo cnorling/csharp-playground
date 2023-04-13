@@ -1,7 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-using System;
-
 Automobiles.Car vehicle = new Automobiles.Car("Toyota", "Corolla", 1998);
 vehicle.PrintInfo();
 
@@ -14,7 +12,7 @@ namespace Automobiles
     public string Model { get; set; }
     public int Year { get; set; }
 
-    // constructor
+    // constructors
     public Car(string make, string model, int year)
     {
       Make = make;
