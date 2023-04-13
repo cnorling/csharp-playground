@@ -11,7 +11,7 @@ namespace Automobiles
     public string Make { get; set; }
     public string Model { get; set; }
     public int Year { get; set; }
-    public specs
+    public Specs Specs { get; set; }
 
     // constructors
     public Car(string make, string model, int year)
@@ -19,6 +19,13 @@ namespace Automobiles
       Make = make;
       Model = model;
       Year = year;
+      Specs = new Specs
+      {
+        Engine = "2.0L",
+        Transmission = "Manual",
+        Horsepower = "150",
+        Topspeed = "120mph"
+      };
     }
 
     // methods
@@ -31,9 +38,9 @@ namespace Automobiles
   public class Specs
   {
     // specs you would normally see in a car
-    public string Engine { get; set; }
-    public string Transmission { get; set; }
-    public string Horsepower { get; set; }
-    public string Topspeed { get; set; }
+    public string? Engine { get; set; }
+    public string? Transmission { get; set; }
+    public string? Horsepower { get; set; }
+    public string? Topspeed { get; set; }
   }
 }
