@@ -2,7 +2,8 @@
 
 using System;
 
-Console.WriteLine("Hello, World!");
+Car vehicle = new Car("Toyota", "Corolla", 1998);
+vehicle.PrintInfo();
 
 public class Car
 {
